@@ -1,2 +1,0 @@
-animal 1234567
-raccoon 123456
